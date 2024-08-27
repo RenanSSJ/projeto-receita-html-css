@@ -16,7 +16,7 @@ body {
   width: 800px;
   padding: 24px;
   margin: 48px auto 28px;
-  background-color: #F0E8C2;
+  background-color: #f0e8c2;
   border-radius: 24px;
 }
 main {
@@ -40,11 +40,12 @@ h1 {
 }
 
 h2 {
-  font-size: 24px
+  font-size: 24px;
 }
 
-h1, h2 {
-  color: #291B1A;
+h1,
+h2 {
+  color: #291b1a;
   margin-bottom: 4px;
   line-height: 150%;
 }
@@ -54,7 +55,7 @@ ul {
 }
 
 footer {
-  color: #F0E8C2;
+  color: #f0e8c2;
   padding-bottom: 48px;
   text-align: center;
 }
